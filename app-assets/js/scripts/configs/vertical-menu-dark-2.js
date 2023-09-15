@@ -1,0 +1,1 @@
+var menuIconColorsObj={iconStrokeColor:"#8baff3ad",iconSolidColor:"#8baff3ad",iconFillColor:"#d4ebf9",iconStrokeColorAlt:"#5A8DEE"};var menuActiveIconColorsObj={iconStrokeColor:"#8baff3ad",iconSolidColor:"#8baff3ad",iconFillColor:"#d4ebf9",iconStrokeColorAlt:"#5A8DEE"};
